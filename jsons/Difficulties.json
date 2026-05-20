@@ -1,0 +1,18 @@
+[
+    {
+        "name": "King",
+        "aiCityGrowthModifier": 0.9
+    },
+    {
+        "name": "Emperor",
+        "aiCityGrowthModifier": 0.85
+    },
+    {
+        "name": "Immortal",
+        "aiCityGrowthModifier": 0.8
+    },
+    {
+        "name": "Deity",
+        "aiCityGrowthModifier": 0.8
+    }
+]
