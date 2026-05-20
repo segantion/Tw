@@ -1,0 +1,8 @@
+{
+    "name": "Territorial Warfare Global Uniques",
+    "uniques": [
+        "All newly-trained [All] units [in all cities] receive the [Territorial Warfare] promotion",
+        "[+20]% Strength <for [Military] units> <when adjacent to a [Military] unit> <with [2] to [2] neighboring [Friendly] tiles>",
+        "[+40]% Strength <for [Military] units> <when adjacent to a [Military] unit> <with [3] to [6] neighboring [Friendly] tiles>"
+    ]
+}
