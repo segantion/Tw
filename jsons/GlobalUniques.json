@@ -1,0 +1,9 @@
+{
+    "name": "Territorial Warfare Global Uniques",
+    "uniques": [
+        "[All] units gain the [Territorial Warfare] promotion <upon turn start>",
+        "[All] units gain the [Territorial Warfare] promotion <upon gaining a [All] unit>",
+        
+        "[+15]% Strength <for [Mounted] units> <vs [Infantry] units>"
+    ]
+}

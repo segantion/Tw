@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Territorial Warfare",
+        "uniques": [
+            "[This Unit] takes [10] damage <upon entering a [Foreign Land] tile>",
+            "[This Unit] takes [50] damage <upon turn end> <in tiles not adjacent to [Friendly] tiles>",
+
+             "Gain control over [All] tiles in a [0]-tile radius <upon entering a [All] tile> <in [Unowned] tiles>",
+            "Gain control over [All] tiles in a [0]-tile radius <upon entering a [All] tile> <in [Enemy Land] tiles>"
+            "Not shown on world screen",
+
+        ]
+    }
+]
